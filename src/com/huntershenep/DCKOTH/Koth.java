@@ -107,7 +107,7 @@ public class Koth {
 					if(ThePlayer.getPlayerFac(inside.get(i)) == factionID){
 						if(!Utils.playerInFacPlayerArr(inside.get(i))) {
 							facPlayers.add(inside.get(i));
-							System.out.println("KOTH - already captured, adding nigga to arraylist");
+							System.out.println("KOTH - already captured, adding player to arraylist");
 						}
 					}
 				}
