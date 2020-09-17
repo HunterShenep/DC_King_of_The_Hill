@@ -1,0 +1,11 @@
+name: DCKOTH
+version: 1.0
+main: com.huntershenep.DCKOTH.Main
+description: DC KoTH
+depend: [DCCORE]
+author: Hunter Shenep - DiamCraft
+
+commands:
+    koth:
+        usage: /<command>
+        description: none
